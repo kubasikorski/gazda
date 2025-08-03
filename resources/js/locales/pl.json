@@ -1,0 +1,15 @@
+{
+    "auth": {
+        "login": {
+            "title": "Zaloguj się do swojego konta",
+            "subtitle": "Wprowadź swój adres email i hasło, aby się zalogować",
+            "email": "Adres email",
+            "password": "Hasło",
+            "forgotPassword": "Zapomniałeś hasła?",
+            "rememberMe": "Zapamiętaj mnie",
+            "submitButton": "Zaloguj się",
+            "noAccount": "Nie masz konta?",
+            "signUp": "Zarejestruj się"
+        }
+    }
+}
