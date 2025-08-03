@@ -3,7 +3,6 @@ import laravel from 'laravel-vite-plugin';
 import tailwindcss from '@tailwindcss/vite';
 import { defineConfig } from 'vite';
 
-const port = 5173;
 const ddevUrl = process.env.DDEV_PRIMARY_URL || 'https://gazda.ddev.site';
 
 export default defineConfig({
